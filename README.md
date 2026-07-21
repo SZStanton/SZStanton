@@ -1,6 +1,6 @@
-## Welcome to the Sebastian's Github 👋
+## Welcome, I'm Sebastian👋
 
-# About
+### About
 
 Career-changing full-stack developer — JavaScript / React / Python. HyperionDev-certified, building on 9 years of professional experience in fast-paced, high-accuracy roles before moving into software development.
 
@@ -19,6 +19,12 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
 `Python` `SQLite`
+
+### More Projects
+- **[E-Bookstore App](https://github.com/SZStanton/ebookstore)** — CRUD-based catalogue management tool built with Python and SQLite.
+- **[Task Manager](https://github.com/SZStanton/Task-Manager)** — Multi-user task management tool with authentication and admin-only functionality.
+- **[Simple Calculator](https://github.com/SZStanton/Simple-Calculator)** — CLI calculator with a calculation history feature.
+- **[PROJECT NAME](https://github.com/SZStanton/REPO-NAME-HERE)** — One-sentence description of what it does and the stack used.
 
 ### Currently
 Strengthening my JavaScript and React fundamentals, and building out new full-stack projects.
