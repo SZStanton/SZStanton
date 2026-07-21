@@ -1,5 +1,30 @@
-## Hi there 👋
+## Welcome to the Sebastian's Github 👋
 
+# About
+
+Career-changing full-stack developer — JavaScript / React / Python. HyperionDev-certified, building on 9 years of professional experience in fast-paced, high-accuracy roles before moving into software development.
+
+I'm currently self-studying and building projects to strengthen my JavaScript/React skills alongside my Python foundation, and looking for a junior full-stack, software developer, or graduate developer role.
+
+### Tech Stack
+`JavaScript (ES6+)` `React` `Node.js` `Express.js` `Python` `MongoDB` `SQL`
+
+### Featured Projects
+
+**[Full-Stack Web Application](https://github.com/SZStanton/REPO-NAME-HERE)** — React/Express/MongoDB app with JWT authentication and full CRUD functionality across a REST API.
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+**[React Single-Page Application](https://github.com/SZStanton/REPO-NAME-HERE)** — Functional-component React app with client-side routing, form validation, and automated tests.
+`React` `Hooks` `Routing` `Testing`
+
+**[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
+`Python` `SQLite`
+
+### Currently
+Strengthening my JavaScript and React fundamentals, and building out new full-stack projects.
+
+### Get in Touch
+[LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139) · [Email](mailto:ssebastianbusiness@gmail.com)
 <!--
 **SZStanton/SZStanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
