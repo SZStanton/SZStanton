@@ -24,7 +24,6 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 - **[E-Bookstore App](https://github.com/SZStanton/ebookstore)** — CRUD-based catalogue management tool built with Python and SQLite.
 - **[Task Manager](https://github.com/SZStanton/Task-Manager)** — Multi-user task management tool with authentication and admin-only functionality.
 - **[Simple Calculator](https://github.com/SZStanton/Simple-Calculator)** — CLI calculator with a calculation history feature.
-- **[PROJECT NAME](https://github.com/SZStanton/REPO-NAME-HERE)** — One-sentence description of what it does and the stack used.
 
 ## Currently
 
