@@ -11,12 +11,15 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 ## Featured Projects
 
 **[To-Do List App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
+
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
 **[Jobs App](https://github.com/SZStanton/Jobs-To-Do-List)** — Job listings app with full CRUD (create, edit, remove), originally built front-end only and later extended into a full-stack app with a React front end connected to an Express/MongoDB backend via Axios.
+
 `React` `Node.js` `Express` `MongoDB` `Axios`
 
 **[Event Planner](https://github.com/SZStanton/Event-Planner)** — React app for creating, managing, and tracking personal events, with a dashboard, event validation, persistent storage, user registration/login, and a help page.
+
 `React` `Vite` `Context API` `Bootstrap`
 
 ## More Projects
