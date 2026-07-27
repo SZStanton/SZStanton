@@ -10,18 +10,25 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 ## Featured Projects
 
-**[Full-Stack Web Application](https://github.com/SZStanton/REPO-NAME-HERE)** — React/Express/MongoDB app with JWT authentication and full CRUD functionality across a REST API.
+**[To-Do List App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
-**[React Single-Page Application](https://github.com/SZStanton/REPO-NAME-HERE)** — Functional-component React app with client-side routing, form validation, and automated tests.
-`React` `Hooks` `Routing` `Testing`
+**[Jobs App](https://github.com/SZStanton/Jobs-To-Do-List)** — Job listings app with full CRUD (create, edit, remove), originally built front-end only and later extended into a full-stack app with a React front end connected to an Express/MongoDB backend via Axios.
+`React` `Node.js` `Express` `MongoDB` `Axios`
 
-**[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
-`Python` `SQLite`
+**[Event Planner](https://github.com/SZStanton/Event-Planner)** — React app for creating, managing, and tracking personal events, with a dashboard, event validation, persistent storage, user registration/login, and a help page.
+`React` `Vite` `Context API` `Bootstrap`
 
 ## More Projects
 
-- **[E-Bookstore App](https://github.com/SZStanton/ebookstore)** — CRUD-based catalogue management tool built with Python and SQLite.
+- **[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — Full-stack app (React/Vite/Bootstrap + Node/Express/JWT) to search, filter, and favourite iTunes media.
+- **[TheCart](https://github.com/SZStanton/The-Cart)** — React e-commerce app with routing, cart logic, and Formik-based form validation.
+- **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)** — Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
+- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** — Recipe site built with HTML5, CSS3, and JavaScript, consuming the TheMealDB API.
+- **[Developer Portfolio / CV Site](https://github.com/SZStanton/CV-2025-Site)** — Responsive, accessible personal site, deployed live via [GitHub Pages](https://szstanton.github.io/CV-2025-Site/).
+- **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)** — Styled static webpage built with HTML and CSS.
+- **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
+- **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** — CRUD-based catalogue management tool built with Python and SQLite.
 - **[Task Manager](https://github.com/SZStanton/Task-Manager)** — Multi-user task management tool with authentication and admin-only functionality.
 - **[Simple Calculator](https://github.com/SZStanton/Simple-Calculator)** — CLI calculator with a calculation history feature.
 
