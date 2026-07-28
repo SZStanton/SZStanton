@@ -10,22 +10,24 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 ## Featured Projects
 
-**[To-Do List App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
+**[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
 `React` `Node.js` `Express` `MongoDB` `JWT`
 
-**[Jobs App](https://github.com/SZStanton/Jobs-To-Do-List)** — Job listings app with full CRUD (create, edit, remove), originally built front-end only and later extended into a full-stack app with a React front end connected to an Express/MongoDB backend via Axios.
+**[Jobs App](https://github.com/SZStanton/Jobs-App)** — Job-tracking tool with submission forms (description, location, priority), status filtering, and batch status updates. Originally front-end only, later extended into a full-stack app.
 `React` `Node.js` `Express` `MongoDB` `Axios`
+
+**[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — Full-stack app to search the iTunes API, filter by media type, and save favourites. React/Bootstrap front end connected to a Node/Express backend secured with JWT.
+`React` `Vite` `Node.js` `Express` `JWT` `Bootstrap`
 
 **[Event Planner](https://github.com/SZStanton/Event-Planner)** — React app for creating, managing, and tracking personal events, with a dashboard, event validation, persistent storage, user registration/login, and a help page.
 `React` `Vite` `Context API` `Bootstrap`
 
 ## More Projects
 
-- **[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — Full-stack app (React/Vite/Bootstrap + Node/Express/JWT) to search, filter, and favourite iTunes media.
 - **[TheCart](https://github.com/SZStanton/The-Cart)** — React e-commerce app with routing, cart logic, and Formik-based form validation.
 - **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)** — Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
-- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** — Recipe site built with HTML5, CSS3, and JavaScript, consuming the TheMealDB API.
-- **[Developer Portfolio / CV Site](https://github.com/SZStanton/CV-2025-Site)** — Responsive, accessible personal site, deployed live via [GitHub Pages](https://szstanton.github.io/CV-2025-Site/).
+- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** — Ingredient-based ordering site — enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Consumes the TheMealDB API.
+- **[CV Site](https://github.com/SZStanton/CV-2025-Site)** — Responsive personal site built with semantic HTML, CSS, and Bootstrap.
 - **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)** — Styled static webpage built with HTML and CSS.
 - **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
 - **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** — CRUD-based catalogue management tool built with Python and SQLite.
@@ -34,7 +36,7 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 ## Currently
 
-Strengthening my JavaScript and React fundamentals, and building out new full-stack projects.
+Strengthening my JavaScript and React, and building out new full-stack projects.
 
 ## Get in Touch
 
