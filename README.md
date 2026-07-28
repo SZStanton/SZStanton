@@ -10,7 +10,8 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 ## Featured Projects
 
-**[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).`React` `Node.js` `Express` `MongoDB` `JWT`
+**[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
 **[Jobs App](https://github.com/SZStanton/Jobs-App)** — Job-tracking tool with submission forms (description, location, priority), status filtering, and batch status updates. Originally front-end only, later extended into a full-stack app.
 `React` `Node.js` `Express` `MongoDB` `Axios`
