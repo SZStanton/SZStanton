@@ -35,7 +35,7 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 ## Currently
 
-Strengthening my JavaScript and React, and building out new full-stack projects.
+Strengthening my React and express, learning Typescript, and building a new full-stack Portfolio website.
 
 ## Get in Touch
 
