@@ -26,7 +26,6 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 - **[TheCart](https://github.com/SZStanton/The-Cart)** — React e-commerce app with routing, cart logic, and Formik-based form validation.
 - **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** — Ingredient-based ordering site — enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Consumes the TheMealDB API.
-- **[CV Site](https://github.com/SZStanton/CV-2025-Site)** — Responsive personal site built with semantic HTML, CSS, and Bootstrap.
 - **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)** — Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
 - **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)** — Styled static webpage built with HTML and CSS.
 - **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
