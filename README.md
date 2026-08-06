@@ -8,6 +8,7 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 `JavaScript (ES6+)` `React` `Node.js` `Express.js` `Python` `MongoDB` `SQL`
 
+
 ## Featured Projects
 
 **[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
@@ -22,6 +23,7 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 **[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — Full-stack app to search the iTunes API, filter by media type, and save favourites. React/Bootstrap front end connected to a Node/Express backend secured with JWT.
 `React` `Vite` `Node.js` `Express` `JWT` `Bootstrap`
 
+
 ## More Projects
 
 - **[TheCart](https://github.com/SZStanton/The-Cart)** — React e-commerce app with routing, cart logic, and Formik-based form validation.
@@ -31,7 +33,7 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 - **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
 - **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** — CRUD-based catalogue management tool built with Python and SQLite.
 - **[Task Manager](https://github.com/SZStanton/Task-Manager)** — Multi-user task management tool with authentication and admin-only functionality.
-- **[Simple Calculator](https://github.com/SZStanton/Simple-Calculator)** — CLI calculator with a calculation history feature.
+
 
 ## Currently
 
