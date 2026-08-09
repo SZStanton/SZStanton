@@ -14,13 +14,13 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 **[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — `React` `Node.js` `Express` `MongoDB` `JWT`<br>
 Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
 
-**[Jobs App](https://github.com/SZStanton/Jobs-App)** — `React` `Node.js` `Express` `MongoDB` `Axios`
+**[Jobs App](https://github.com/SZStanton/Jobs-App)** — `React` `Node.js` `Express` `MongoDB` `Axios`<br>
 Job-tracking tool with submission forms (description, location, priority), status filtering, and batch status updates. Originally front-end only, later extended into a full-stack app.
 
-**[Event Planner](https://github.com/SZStanton/Event-Planner)** — `React` `Vite` `Context API` `Bootstrap`
+**[Event Planner](https://github.com/SZStanton/Event-Planner)** — `React` `Vite` `Context API` `Bootstrap`<br>
 React app for creating, managing, and tracking personal events, with a dashboard, event validation, persistent storage, user registration/login, and a help page.
 
-**[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — `React` `Vite` `Node.js` `Express` `JWT` `Bootstrap`
+**[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — `React` `Vite` `Node.js` `Express` `JWT` `Bootstrap`<br>
 Full-stack app to search the iTunes API, filter by media type, and save favourites. React/Bootstrap front end connected to a Node/Express backend secured with JWT.
 
 
