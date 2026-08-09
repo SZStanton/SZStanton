@@ -11,28 +11,28 @@ I'm currently self-studying and building projects to strengthen my JavaScript/Re
 
 ## Featured Projects
 
-**[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** — `React` `Node.js` `Express` `MongoDB` `JWT`
+Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
 
-**[Jobs App](https://github.com/SZStanton/Jobs-App)** — Job-tracking tool with submission forms (description, location, priority), status filtering, and batch status updates. Originally front-end only, later extended into a full-stack app.
-`React` `Node.js` `Express` `MongoDB` `Axios`
+**[Jobs App](https://github.com/SZStanton/Jobs-App)** — `React` `Node.js` `Express` `MongoDB` `Axios`
+Job-tracking tool with submission forms (description, location, priority), status filtering, and batch status updates. Originally front-end only, later extended into a full-stack app.
 
-**[Event Planner](https://github.com/SZStanton/Event-Planner)** — React app for creating, managing, and tracking personal events, with a dashboard, event validation, persistent storage, user registration/login, and a help page.
-`React` `Vite` `Context API` `Bootstrap`
+**[Event Planner](https://github.com/SZStanton/Event-Planner)** — `React` `Vite` `Context API` `Bootstrap`
+React app for creating, managing, and tracking personal events, with a dashboard, event validation, persistent storage, user registration/login, and a help page.
 
-**[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — Full-stack app to search the iTunes API, filter by media type, and save favourites. React/Bootstrap front end connected to a Node/Express backend secured with JWT.
-`React` `Vite` `Node.js` `Express` `JWT` `Bootstrap`
+**[iTunes Search App](https://github.com/SZStanton/iTunes-Search)** — `React` `Vite` `Node.js` `Express` `JWT` `Bootstrap`
+Full-stack app to search the iTunes API, filter by media type, and save favourites. React/Bootstrap front end connected to a Node/Express backend secured with JWT.
 
 
 ## More Projects
 
-- **[TheCart](https://github.com/SZStanton/The-Cart)** — React e-commerce app with routing, cart logic, and Formik-based form validation.
-- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** — Ingredient-based ordering site — enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Consumes the TheMealDB API.
-- **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)** — Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
-- **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)** — Styled static webpage built with HTML and CSS.
-- **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
-- **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** — CRUD-based catalogue management tool built with Python and SQLite.
-- **[Task Manager](https://github.com/SZStanton/Task-Manager)** — Multi-user task management tool with authentication and admin-only functionality.
+- **[TheCart](https://github.com/SZStanton/The-Cart)**: `React` — e-commerce app with routing, cart logic, and Formik-based form validation. 
+- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)**: `JavaScript` `HTML/CSS` — Ingredient-based ordering site, enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Uses the TheMealDB API.
+- **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)**: `JavaScript` `HTML/CSS` — Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
+- **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)**: `HTML/CSS` — Styled static webpage built with HTML and CSS.
+- **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)**: `Python` `SQLite` — Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
+- **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)**: `Python` `SQLite` — CRUD-based catalogue management tool built with Python and SQLite.
+- **[Task Manager](https://github.com/SZStanton/Task-Manager)**: `Python` — Multi-user task management tool with authentication and admin-only functionality.
 
 
 ## Currently
