@@ -26,13 +26,13 @@ Full-stack app to search the iTunes API, filter by media type, and save favourit
 
 ## More Projects
 
-- **[TheCart](https://github.com/SZStanton/The-Cart)**: `React` e-commerce app with routing, cart logic, and Formik-based form validation. 
-- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)**: `JavaScript` `HTML/CSS` Ingredient-based ordering site, enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Uses the TheMealDB API.
-- **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)**: `JavaScript` `HTML/CSS` Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
-- **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)**: `HTML/CSS` Styled static webpage built with HTML and CSS.
-- **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)**: `Python` `SQLite` Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
-- **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)**: `Python` `SQLite` CRUD-based catalogue management tool built with Python and SQLite.
-- **[Task Manager](https://github.com/SZStanton/Task-Manager)**: `Python` Multi-user task management tool with authentication and admin-only functionality.
+- **[TheCart](https://github.com/SZStanton/The-Cart)** `React` E-commerce app with routing, cart logic, and Formik-based form validation. 
+- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** `JavaScript` `HTML/CSS` Ingredient-based ordering site, enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Uses the TheMealDB API.
+- **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)** `JavaScript` `HTML/CSS` Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
+- **[Favorite Hobby Webpage](https://github.com/SZStanton/Favorite-Hobby-Webpage)** `HTML/CSS` Styled static webpage built with HTML and CSS.
+- **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** `Python` `SQLite` Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
+- **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** `Python` `SQLite` CRUD-based catalogue management tool built with Python and SQLite.
+- **[Task Manager](https://github.com/SZStanton/Task-Manager)** `Python` Multi-user task management tool with authentication and admin-only functionality.
 
 
 ## Currently
