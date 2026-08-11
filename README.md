@@ -41,7 +41,7 @@ Strengthening my React and Express.js, learning Typescript, and building a new f
 
 ## Get in Touch
 
-[LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139) · [Email](mailto:ssebastianbusiness@gmail.com)
+### [LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139) · [Email](mailto:ssebastianbusiness@gmail.com)
 <!--
 **SZStanton/SZStanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
