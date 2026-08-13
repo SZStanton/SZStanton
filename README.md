@@ -37,7 +37,8 @@ Full-stack app to search the iTunes API, filter by media type, and save favourit
 
 ## Currently
 
-Strengthening my React + Express.js, learning TypeScript + Docker, Finishing up my Portfolio Website and improving my existing projects.
+Strengthening my React and Express.js, while learning TypeScript and Docker. 
+Finishing up my portfolio website and improving my existing projects.
 
 ## Get in Touch
 
