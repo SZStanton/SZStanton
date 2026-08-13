@@ -6,7 +6,7 @@ I'm currently self-studying and looking for a Junior Full Stack, Software Develo
 
 ## Tech Stack
 
-`JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQL`<br>
+`JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQL`
 
 Currently Learning: `TypeScript` `Docker` `Tailwind CSS`
 
@@ -37,7 +37,7 @@ Full-stack app to search the iTunes API, filter by media type, and save favourit
 
 ## Currently
 
-Strengthening my React and Express.js, while learning TypeScript and Docker. 
+Strengthening my React and Express.js, while learning TypeScript and Docker.<br>
 Finishing up my portfolio website and improving my existing projects.
 
 ## Get in Touch
