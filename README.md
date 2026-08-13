@@ -26,17 +26,17 @@ I'm strengthening my JavaScript and React alongside a Python foundation, and loo
 
 ### Tech stack
 
-**Frontend**
-<img height="38" src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, React, Bootstrap, HTML, CSS" />
+**Frontend** : 
+<img height="30" src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, React, Bootstrap, HTML, CSS" />
 
-**Backend and databases**<br>
-<img height="38" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,sqlite&theme=dark&perline=10" alt="Node.js, Express, MongoDB, Python, SQLite" />
+**Backend and Databases** : 
+<img height="30" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,sqlite&theme=dark&perline=10" alt="Node.js, Express, MongoDB, Python, SQLite" />
 
-**Tools**<br>
-<img height="38" src="https://skillicons.dev/icons?i=git,github,vite,vscode&theme=dark&perline=10" alt="Git, GitHub, Vite, VS Code" />
+**Tools** : 
+<img height="30" src="https://skillicons.dev/icons?i=git,github,vite,vscode&theme=dark&perline=10" alt="Git, GitHub, Vite, VS Code" />
 
-**Learning**<br>
-<img height="38" src="https://skillicons.dev/icons?i=ts,tailwind,docker&theme=dark&perline=10" alt="TypeScript, Tailwind CSS, Docker" />
+**Learning** : 
+<img height="30" src="https://skillicons.dev/icons?i=ts,tailwind,docker&theme=dark&perline=10" alt="TypeScript, Tailwind CSS, Docker" />
 
 ---
 
