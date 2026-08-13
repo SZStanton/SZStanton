@@ -1,12 +1,12 @@
 # Hi, I'm Sebastian 👋
 
-Career-changing full-stack developer with the MERN stack. Studied with HyperionDev, I am building on 9 years of professional experience in fast-paced, high-accuracy roles before moving into software development.
+Junior Full Stack Developer with the MERN stack. Studied with HyperionDev, I am building on 9 years of professional experience in fast-paced, high-accuracy roles before moving into software development.
 
-I'm currently self-studying and building projects to strengthen my React, Typescript and Express skills, and looking for a Junior Full Stack, Software Developer, or Graduate Developer role.
+I'm currently self-studying and looking for a Junior Full Stack, Software Developer, or Graduate Developer role, based in Cape Town, South Africa.
 
 ## Tech Stack
 
-`JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQLite`<br>
+`JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQL`<br>
 
 Currently Learning: `TypeScript` `Docker` `Tailwind CSS`
 
@@ -28,33 +28,17 @@ Full-stack app to search the iTunes API, filter by media type, and save favourit
 
 ## More Projects
 
-- **[TheCart](https://github.com/SZStanton/The-Cart)** `React` E-commerce app with routing, cart logic, and Formik-based form validation. 
+- **[TheCart](https://github.com/SZStanton/The-Cart)** `React` E-commerce app with routing, cart logic, and Formik-based form validation.
 - **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** `JavaScript` `HTML/CSS` Ingredient-based ordering site, enter a main ingredient and the "chef" selects a dish, with pending-order tracking. Uses the TheMealDB API.
 - **[E-Commerce (Web Storage)](https://github.com/SZStanton/E-Commerce)** `JavaScript` `HTML/CSS` Demonstrates browser data persistence using cache, cookies, session storage, and local storage.
 - **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** `Python` `SQLite` Python/SQLite CLI app with full CRUD, category-based budget tracking, and a financial-goals calculator.
 - **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** `Python` `SQLite` CRUD-based catalogue management tool built with Python and SQLite.
-- **[Task Manager](https://github.com/SZStanton/Task-Manager)** `Python` Multi-user task management tool with authentication and admin-only functionality.
 
 
 ## Currently
 
-Strengthening my React + Express.js, learning Typescript + Docker, Finishing up my Portfolio Website and improving my existing projects.
+Strengthening my React + Express.js, learning TypeScript + Docker, Finishing up my Portfolio Website and improving my existing projects.
 
 ## Get in Touch
 
 ### [LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139) · [Email](mailto:ssebastianbusiness@gmail.com)
-<!--
-**SZStanton/SZStanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
