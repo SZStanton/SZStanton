@@ -7,7 +7,8 @@ I'm currently self-studying and building projects to strengthen my React, Typesc
 ## Tech Stack
 
 `JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQLite`<br>
-Learning `Typescript` `Docker` `Tailwind CSS`
+
+Currently Learning: `Typescript` `Docker` `Tailwind CSS`
 
 
 ## Featured Projects
@@ -37,7 +38,7 @@ Full-stack app to search the iTunes API, filter by media type, and save favourit
 
 ## Currently
 
-Strengthening my React + Express.js, learning Typescript + Docker, finishing up my Portfolio website and improving my existing projects.
+Strengthening my React + Express.js, learning Typescript + Docker, Finishing up my Portfolio Website and improving my existing projects.
 
 ## Get in Touch
 
