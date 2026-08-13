@@ -8,7 +8,7 @@ I'm currently self-studying and building projects to strengthen my React, Typesc
 
 `JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQLite`<br>
 
-Currently Learning: `Typescript` `Docker` `Tailwind CSS`
+Currently Learning: `TypeScript` `Docker` `Tailwind CSS`
 
 
 ## Featured Projects
