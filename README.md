@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=32&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian+Stanton;Junior+Full-Stack+Developer;JavaScript+%2F+React+%2F+Python;Career+changer%2C+building+in+public" alt="Junior Full-Stack Developer" />
-
-<p><em>Cape Town, South Africa 🇿🇦. Nine years of high-accuracy work, now building for the web.</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=30&duration=4500&pause=2000&color=D4AF37&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian+Stanton;Junior+Full-Stack+Developer" alt="Sebastian Stanton, Junior Full-Stack Developer" />
 
 <p>
   <a href="https://szstanton.vercel.app">
@@ -18,41 +16,28 @@
 
 </div>
 
----
+Based in Cape Town, South Africa. HyperionDev certified, building on nine years of professional experience in fast-paced, high-accuracy roles before moving into software development.
 
-### 🙋 About me
-
-```yaml
-name:      Sebastian Stanton
-location:  Cape Town, South Africa
-role:      Junior Full-Stack Developer
-stack:     React · Node · Express · MongoDB · Python
-learning:  TypeScript · Tailwind · Docker
-studied:   HyperionDev, Full Stack Web Development & Software Engineering
-before:    9 years in medical aid administration
-seeking:   Junior full-stack, software developer or graduate role
-ask me:    MERN apps, JWT auth, SQL fundamentals, career changing
-```
+I'm strengthening my JavaScript and React alongside a Python foundation, and looking for a junior full-stack, software developer or graduate developer role.
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
-**Frontend**
+**Frontend**<br>
+<img height="38" src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, TypeScript, React, Tailwind, Bootstrap, HTML, CSS" />
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,html,css&theme=dark&perline=10" alt="Frontend" />
+**Backend and databases**<br>
+<img height="38" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,sqlite&theme=dark&perline=10" alt="Node.js, Express, MongoDB, Python, SQLite" />
 
-**Backend and databases**
+**Tools**<br>
+<img height="38" src="https://skillicons.dev/icons?i=git,github,vite,vscode,docker&theme=dark&perline=10" alt="Git, GitHub, Vite, VS Code, Docker" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,sqlite&theme=dark&perline=10" alt="Backend and databases" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vite,vscode,docker&theme=dark&perline=10" alt="Tools" />
+Currently learning TypeScript, Tailwind and Docker.
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 #### [To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)
 
@@ -80,19 +65,17 @@ React app for creating, managing and tracking personal events, with a dashboard,
 
 ---
 
-### 📦 Other projects
+### Other projects
 
-| Project | Built with | |
-| --- | --- | --- |
-| **[TheCart](https://github.com/SZStanton/The-Cart)**<br>E-commerce storefront with product browsing, cart logic and Formik validation. | `React` `Formik` | |
-| **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)**<br>Ingredient-based dish picker with order tracking. My first project pulling live data from an API. | `JavaScript` `TheMealDB` | [Live](https://szstanton.github.io/Chefs-Favorites/) |
-| **[E-Commerce](https://github.com/SZStanton/E-Commerce)**<br>Browser data persistence four ways: cache, cookies, session and local storage. | `JavaScript` `Web Storage` | [Live](https://szstanton.github.io/E-Commerce/) |
-| **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)**<br>CLI app with full CRUD, category budgets and a financial-goals calculator. Built to practise relational modelling and SQL. | `Python` `SQLite` | |
-| **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)**<br>CRUD catalogue management tool for a bookstore clerk. | `Python` `SQLite` | |
-| **[Task Manager](https://github.com/SZStanton/Task-Manager)**<br>Multi-user task management with authentication and admin-only functionality. | `Python` | |
+- **[TheCart](https://github.com/SZStanton/The-Cart)** `React` `Formik`. E-commerce storefront with product browsing, cart logic and form validation.
+- **[Chef's Favorites](https://github.com/SZStanton/Chefs-Favorites)** `JavaScript` `TheMealDB`. Ingredient-based dish picker with order tracking. My first project pulling live data from an API. [Live](https://szstanton.github.io/Chefs-Favorites/)
+- **[E-Commerce](https://github.com/SZStanton/E-Commerce)** `JavaScript` `Web Storage`. Browser data persistence four ways: cache, cookies, session and local storage. [Live](https://szstanton.github.io/E-Commerce/)
+- **[Expense & Budget Tracker](https://github.com/SZStanton/Expense-Tracker)** `Python` `SQLite`. CLI app with full CRUD, category budgets and a financial-goals calculator.
+- **[E-Bookstore App](https://github.com/SZStanton/E-Bookstore-App)** `Python` `SQLite`. CRUD catalogue management tool for a bookstore clerk.
+- **[Task Manager](https://github.com/SZStanton/Task-Manager)** `Python`. Multi-user task management with authentication and admin-only functionality.
 
 ---
 
 <div align="center">
-  <sub>Currently strengthening React and Express, learning TypeScript, and improving my older projects.</sub>
+  <sub>Currently improving my older projects and building in public.</sub>
 </div>
