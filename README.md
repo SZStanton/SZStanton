@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Sebastian Stanton
+
 ### Junior Full-Stack Developer
 
 <p>
@@ -27,10 +28,13 @@ I'm strengthening my JavaScript and React alongside a Python foundation, and loo
 
 **Frontend**<br>
 <img height="38" src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, React, Bootstrap, HTML, CSS" />
+
 **Backend and databases**<br>
 <img height="38" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,sqlite&theme=dark&perline=10" alt="Node.js, Express, MongoDB, Python, SQLite" />
+
 **Tools**<br>
 <img height="38" src="https://skillicons.dev/icons?i=git,github,vite,vscode&theme=dark&perline=10" alt="Git, GitHub, Vite, VS Code" />
+
 **Learning**<br>
 <img height="38" src="https://skillicons.dev/icons?i=ts,tailwind,docker&theme=dark&perline=10" alt="TypeScript, Tailwind CSS, Docker" />
 
@@ -38,19 +42,23 @@ I'm strengthening my JavaScript and React alongside a Python foundation, and loo
 
 ### Featured projects
 
-#### [To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)`React` `Node.js` `Express` `MongoDB` `JWT`
+#### [To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks) 
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
 Full-stack MERN app with JWT authentication, protected routes and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
 
-#### [Jobs App](https://github.com/SZStanton/Jobs-App)`React` `Node.js` `Express` `MongoDB` `Axios`
+#### [Jobs App](https://github.com/SZStanton/Jobs-App) 
+`React` `Node.js` `Express` `MongoDB` `Axios`
 
 Job-tracking tool with submission forms, status filtering and batch status updates across multiple records. Started front-end only, later extended into a full-stack app.
 
-#### [iTunes Search App](https://github.com/SZStanton/iTunes-Search)`React` `Vite` `Node.js` `Express` `JWT`
+#### [iTunes Search App](https://github.com/SZStanton/iTunes-Search) 
+`React` `Vite` `Node.js` `Express` `JWT`
 
 Full-stack app searching the iTunes API with media type filtering and saved favourites. React front end connected to a Node/Express backend secured with JWT.
 
-#### [Event Planner](https://github.com/SZStanton/Event-Planner)`React` `Vite` `Context API` `Bootstrap`
+#### [Event Planner](https://github.com/SZStanton/Event-Planner) 
+`React` `Vite` `Context API` `Bootstrap`
 
 React app for creating, managing and tracking personal events, with a dashboard, validation, persistent storage, registration and login.
 
