@@ -1,12 +1,13 @@
 # Hi, I'm Sebastian 👋
 
-Career-changing full-stack developer JavaScript / React / Python. HyperionDev-certified, building on 9 years of professional experience in fast-paced, high-accuracy roles before moving into software development.
+Career-changing full-stack developer with the MERN stack. Studied with HyperionDev, I am building on 9 years of professional experience in fast-paced, high-accuracy roles before moving into software development.
 
-I'm currently self-studying and building projects to strengthen my JavaScript/React skills alongside my Python foundation, and looking for a junior full-stack, software developer, or graduate developer role.
+I'm currently self-studying and building projects to strengthen my React, Typescript and Express skills, and looking for a Junior Full Stack, Software Developer, or Graduate Developer role.
 
 ## Tech Stack
 
-`JavaScript (ES6+)` `React` `Node.js` `Express.js` `Python` `MongoDB` `SQL`
+`JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQLite`<br>
+Learning `Typescript` `Docker` `Tailwind CSS`
 
 
 ## Featured Projects
@@ -36,7 +37,7 @@ Full-stack app to search the iTunes API, filter by media type, and save favourit
 
 ## Currently
 
-Strengthening my React and Express.js, learning Typescript, and building a new full-stack Portfolio website.
+Strengthening my React + Express.js, learning Typescript + Docker, finishing up my Portfolio website and improving my existing projects.
 
 ## Get in Touch
 
