@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=30&duration=4500&pause=2000&color=D4AF37&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B%2C+I'm+Sebastian+Stanton;Junior+Full-Stack+Developer" alt="Sebastian Stanton, Junior Full-Stack Developer" />
+# Hi 👋, I'm Sebastian Stanton
+
+### Junior Full-Stack Developer
 
 <p>
   <a href="https://szstanton.vercel.app">
@@ -25,15 +27,16 @@ I'm strengthening my JavaScript and React alongside a Python foundation, and loo
 ### Tech stack
 
 **Frontend**<br>
-<img height="38" src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, TypeScript, React, Tailwind, Bootstrap, HTML, CSS" />
+<img height="38" src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, React, Bootstrap, HTML, CSS" />
 
 **Backend and databases**<br>
 <img height="38" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,sqlite&theme=dark&perline=10" alt="Node.js, Express, MongoDB, Python, SQLite" />
 
 **Tools**<br>
-<img height="38" src="https://skillicons.dev/icons?i=git,github,vite,vscode,docker&theme=dark&perline=10" alt="Git, GitHub, Vite, VS Code, Docker" />
+<img height="38" src="https://skillicons.dev/icons?i=git,github,vite,vscode&theme=dark&perline=10" alt="Git, GitHub, Vite, VS Code" />
 
-Currently learning TypeScript, Tailwind and Docker.
+**Learning**<br>
+<img height="38" src="https://skillicons.dev/icons?i=ts,tailwind,docker&theme=dark&perline=10" alt="TypeScript, Tailwind CSS, Docker" />
 
 ---
 
