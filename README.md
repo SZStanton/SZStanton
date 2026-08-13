@@ -26,7 +26,7 @@ I'm strengthening my JavaScript and React alongside a Python foundation, and loo
 
 ### Tech stack
 
-**Frontend**<br>
+**Frontend**
 <img height="38" src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css&theme=dark&perline=10" alt="JavaScript, React, Bootstrap, HTML, CSS" />
 
 **Backend and databases**<br>
