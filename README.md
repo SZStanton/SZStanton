@@ -42,4 +42,4 @@ Finishing up my portfolio website and improving my existing projects.
 
 ## Get in Touch
 
-### [LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139)  [Portfolio](https://szstanton.vercel.app/)
+### [LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139)  |  [Portfolio](https://szstanton.vercel.app/)
