@@ -42,4 +42,4 @@ Finishing up my portfolio website and improving my existing projects.
 
 ## Get in Touch
 
-### [LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139) · [Email](mailto:ssebastianbusiness@gmail.com)
+### [LinkedIn](https://linkedin.com/in/sebastian-stanton-5464b0139)
