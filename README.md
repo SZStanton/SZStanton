@@ -8,12 +8,12 @@ I'm currently self-studying and looking for a Junior Full Stack, Software Develo
 
 `JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQL`
 
-Currently Learning: `TypeScript` `Docker` `Tailwind CSS`
+Currently Learning: `TypeScript` `PostgreSQL` `Tailwind CSS`
 
 
 ## Featured Projects
 
-**[To-Do Tasks App](https://github.com/SZStanton/To-Do-Tasks)** `React` `Node.js` `Express` `MongoDB` `JWT`<br>
+**[To-Do Tasks](https://github.com/SZStanton/To-Do-Tasks)** `React` `Node.js` `Express` `MongoDB` `JWT`<br>
 Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Structured as a full front end (components, context, pages) and back end (config, middleware, models, routes).
 
 **[Jobs App](https://github.com/SZStanton/Jobs-App)** `React` `Node.js` `Express` `MongoDB` `Axios`<br>
