@@ -8,7 +8,7 @@ I'm currently self-studying and looking for a Junior Full Stack, Software Develo
 
 `JavaScript (ES6+)` `React` `Node.js` `Express.js` `MongoDB` `Python` `SQL`
 
-Currently Learning: `TypeScript` `PostgreSQL` `Tailwind CSS`
+Currently Learning: `TypeScript` `PostgreSQL` `Docker` `Tailwind CSS`
 
 
 ## Featured Projects
