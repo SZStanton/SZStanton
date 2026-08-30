@@ -39,7 +39,7 @@ React app for creating, managing, and tracking personal events, with a dashboard
 
 Strengthening my React and Express.js, while learning TypeScript and Docker.<br>
 Finishing up my portfolio website and improving my existing projects.<br>
-I am also working on a new PERN with Prisma project to learn Prisma and strengthen my Typescript: **[SQL Sandbox](https://github.com/SZStanton/sql-sandbox)**
+I am also working on a new PERN with Prisma project to learn PostgreSQL and strengthen my Typescript: **[SQL Sandbox](https://github.com/SZStanton/sql-sandbox)**
 
 ## Get in Touch
 
