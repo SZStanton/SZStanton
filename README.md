@@ -16,16 +16,16 @@ Currently Learning: `TypeScript` `Tailwind CSS` `PostgreSQL` `Next.js`
 
 ## Featured Projects
 
-**[Portfolio](https://github.com/SZStanton/portfolio)** · **[Live](https://szstanton.com)** `TypeScript` `React` `Vite` `Tailwind` `Vercel`<br>
+**Portfolio** · **[Code](https://github.com/SZStanton/portfolio)** · **[Live](https://szstanton.com)** `TypeScript` `React` `Vite` `Tailwind` `Vercel`<br>
 My own site, and the only project where the design is the point rather than the wrapper. Five routes with code splitting, light and dark themes, and a contact form running on a single Vercel serverless function instead of a hosted server.
 
-**[To-Do Tasks](https://github.com/SZStanton/To-Do-Tasks)** · **[Live Demo](https://to-do-tasks.szstanton.com)** `React` `Node.js` `Express` `MongoDB` `JWT`<br>
+**To-Do Tasks** · **[Code](https://github.com/SZStanton/To-Do-Tasks)** · **[Live Demo](https://to-do-tasks.szstanton.com)** `React` `Node.js` `Express` `MongoDB` `JWT`<br>
 Full-stack MERN app with JWT authentication, protected routes, and hashed password validation. Every account sees only its own list, enforced on the server from the verified token. Drag-and-drop reordering, a 24-hour recycle bin, and light/dark themes.
 
-**[iTunes Search App](https://github.com/SZStanton/itunes-search)** · **[Live Demo](https://itunes-search.szstanton.com)** `React` `Vite` `Node.js` `Express` `JWT` `Tailwind`<br>
+**iTunes Search App** · **[Code](https://github.com/SZStanton/itunes-search)** · **[Live Demo](https://itunes-search.szstanton.com)** `React` `Vite` `Node.js` `Express` `JWT` `Tailwind`<br>
 Search the iTunes Store across eight media types, with accounts, saved favourites and search history. React/Tailwind front end connected to a Node/Express backend secured with JWT.
 
-**[Jobs App](https://github.com/SZStanton/jobs-app)** · **[Live Demo](https://jobs-app.szstanton.com)** `React` `Node.js` `Express` `MongoDB` `Axios`<br>
+**Jobs App** · **[Code](https://github.com/SZStanton/jobs-app)** · **[Live Demo](https://jobs-app.szstanton.com)** `React` `Node.js` `Express` `MongoDB` `Axios`<br>
 Job-tracking tool with submission forms (description, location, priority), status filtering, keyword search and batch status updates. Originally front-end only, later extended into a full-stack app.
 
 
