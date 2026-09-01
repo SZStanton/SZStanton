@@ -39,18 +39,6 @@ React app for creating, managing, and tracking personal events, with a dashboard
 
 I'm also learning Next.js, PostgreSQL and TypeScript by building **[SQL Sandbox](https://github.com/SZStanton/sql-sandbox)**, an app where every visitor gets an isolated database schema, can interact with it and can see the code behind every query.
 
-## Currently
-
-Strengthening my React and Express.js, while learning TypeScript, Docker, Next.js and PostgreSQL.<br>
-Much of that is going into **[SQL Sandbox](https://github.com/SZStanton/sql-sandbox)**, an app where every visitor gets an isolated database schema and can see the code behind every query.
-
-
-## Currently
-
-Strengthening my React and Express.js skills while learning TypeScript, Docker, Next.js and PostgreSQL.<br>
-I'm applying much of this to SQL Sandbox, an app where every visitor gets an isolated database schema and can see the code behind every query.
-
-
 
 ## Get in Touch
 
